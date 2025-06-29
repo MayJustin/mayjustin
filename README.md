@@ -23,3 +23,5 @@
 - 🤖 Deepen my skills in **AI and machine learning** for practical applications  
 - 👥 Collaborate on impactful open-source tools and innovative solutions  
 - 🚀 Keep learning and pushing boundaries in tech that makes a difference
+
+**Theres always more to come 🙃**
