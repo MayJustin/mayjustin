@@ -13,9 +13,9 @@
 ### 💻 Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=flat-square&logo=visual-studio&logoColor=white)
 
 ### 🎯 Goals for the Future
 - 🌱 Build expertise in **AgTech Engineering** — combining agriculture, technology, and automation  
