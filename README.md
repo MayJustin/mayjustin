@@ -10,6 +10,16 @@
 - 🧪 Exploring projects at the intersection of low-level development and AI/automation
 - 📂 Most of my work lives here — from tools to experiments, feel free to explore!
 
-  ### 💻 Languages & Tools
+### 💻 Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
-  
+### 🎯 Goals for the Future
+- 🌱 Build expertise in **AgTech Engineering** — combining agriculture, technology, and automation  
+- 🛠️ Develop more projects in **C, C++, and Python**  
+- 🤖 Deepen my skills in **AI and machine learning** for practical applications  
+- 👥 Collaborate on impactful open-source tools and innovative solutions  
+- 🚀 Keep learning and pushing boundaries in tech that makes a difference
